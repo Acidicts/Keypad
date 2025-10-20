@@ -13,11 +13,11 @@ Made the schematic key arrangement is 4 columns by 5 rows:
 - E = Rotary Encoder
 - 2K = 2 tall key 1x2 size top and bottom will be written out
 
-- K K K E
-- K K K K
-- K K K K
-- K K K 2K
-- K K K 2K
+1. K K K E
+2. K K K K
+3. K K K K
+4. K K K 2K
+5. K K K 2K
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--5082a32cdb9cd73dcb16b6cca413be0df7f70bc9/image.png)
 
