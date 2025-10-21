@@ -23,10 +23,16 @@ K K K 2K
 
   
 
-## 10/21/2025 - Routed PCB  
+## 10/21/2025 10:46 PM - Routed PCB  
 
 I routed the pcb and removed a key to make space for the Xiao Seed Studio on the board. So the board has 4 columns with 5 rows with a total of 17 Keys and an rotary encoder
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d9f18383b22380799a0eb291931b6e3d59c409e/image.png)
+  
+
+## 10/21/2025 10:49 PM - Made a Board Render  
+
+I added a margin and made a render of the pcb to get an idea of what the shape of it will be and to start thinking if I want a case or enjoy the pcb in all its glory. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--9bd3bd934de4f6e44229f92ebe4e8b6d0dc4f0ed/image.png)
   
 
