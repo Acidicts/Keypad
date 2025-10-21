@@ -13,13 +13,20 @@ Made the schematic key arrangement is 4 columns by 5 rows:
 - E = Rotary Encoder
 - 2K = 2 tall key 1x2 size top and bottom will be written out
 
-1. K K K E
-2. K K K K
-3. K K K K
-4. K K K 2K
-5. K K K 2K
+K K K E
+K K K K
+K K K K
+K K K 2K
+K K K 2K
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--5082a32cdb9cd73dcb16b6cca413be0df7f70bc9/image.png)
 
+  
+
+## 10/21/2025 - Routed PCB  
+
+I routed the pcb and removed a key to make space for the Xiao Seed Studio on the board. So the board has 4 columns with 5 rows with a total of 17 Keys and an rotary encoder
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d9f18383b22380799a0eb291931b6e3d59c409e/image.png)
   
 
