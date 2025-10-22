@@ -43,3 +43,10 @@ I selected ignore all for the clearance drc rules as it was due to using a small
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--34b1a3d51dd9bb604635d82c330bde3cf690fb14/image.png)
   
 
+## 10/22/2025 - PCB Case  
+
+Made Case for the keypad and tried getting the pcb into jlcpcb but failed, due to kicad exporting BOM and CPL wrong, and I couldn't find a diode for the 203_603metric footprint
+
+![keypad_render.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--796f47a034207fa8d8725a98c5f8fb3c63625839/keypad_render.PNG)
+  
+
