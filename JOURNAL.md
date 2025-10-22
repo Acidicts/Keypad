@@ -43,10 +43,18 @@ I selected ignore all for the clearance drc rules as it was due to using a small
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--34b1a3d51dd9bb604635d82c330bde3cf690fb14/image.png)
   
 
-## 10/22/2025 - PCB Case  
+## 10/22/2025 11:09 PM - PCB Case  
 
 Made Case for the keypad and tried getting the pcb into jlcpcb but failed, due to kicad exporting BOM and CPL wrong, and I couldn't find a diode for the 203_603metric footprint
 
 ![keypad_render.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--796f47a034207fa8d8725a98c5f8fb3c63625839/keypad_render.PNG)
+  
+
+## 10/22/2025 11:47 PM - Looking for parts  
+
+PCb and diodes have been found but currently looking for keyswitches and keys to put on the board and yet to look for the seeed studio xiao rp2040 microcontroller
+
+![pcb_cart_keypad.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU3NywicHVyIjoiYmxvYl9pZCJ9fQ==--12b75ea97dfb95c1f8b19e1f509aadf93d3e0d84/pcb_cart_keypad.png)
+![keypad_diode_cart.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--c806f93c4a0e785a24e2fecf93ceffc7265b1a92/keypad_diode_cart.png)
   
 
