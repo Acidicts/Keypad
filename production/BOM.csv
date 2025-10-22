@@ -1,5 +1,2 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"D3,D5,D13,D9,D19,D12,D2,D1,D17,D10,D4,D20,D8,D18,D16,D6,D7,D14,D15";"D_0201_0603Metric";19;"D";;;
-2;"SW9,SW7,SW17,SW4,SW18,SW11,SW6,SW8,SW3,SW15,SW14,SW10,SW16,SW5,SW13,SW2,SW_1_1";"SW_Cherry_MX_1.00u_PCB";17;"SW_Push_45deg";;;
-3;"SW1";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";1;"RotaryEncoder_Switch";;;
-4;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+Comment,Designator,Footprint,JLCPCB Part #?optional?
+BAV16W,"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D12,D13,D14,D15,D16,D17,D18,D19,D20",SOD123,
