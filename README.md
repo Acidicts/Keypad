@@ -19,3 +19,8 @@ Will be using either **KMK** or **QMK** most likely (kmk due to being easier to 
 
 Here is a render of the finished product:
 <img width="3300" height="2550" alt="keypad_render" src="https://github.com/user-attachments/assets/a573d20f-7a2c-49de-92d5-adedc084e4c7" />
+
+<div>
+  <img width=49% src="https://github.com/user-attachments/assets/2049f102-be37-4b23-a746-3f4b56c8fc51">
+  <img width=49% src="https://github.com/user-attachments/assets/0d8e8add-1963-4b33-84ec-57172f1fb98b">
+</div>
