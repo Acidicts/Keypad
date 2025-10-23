@@ -1,18 +1,10 @@
 ﻿Item,Link,Quantity,Price(£),Price ($),Shipping,Total
-Seeed Studio Xiao RP2040,,1, N/A , $3.90 , $3.68 , $7.58 
-EC11 Rotary Encoder ( 5 pack ),,1, £5.69 , $7.57 , Prime , $7.57 
-Key Switches (10 pack),,2, £3.49 , $4.64 , Prime , $4.64 
-PCB,,5, N/A , $2.00 , $2.20 , $4.20 
-Diodes ( Multiples of 50 ),,3, N/A , $1.62 , $8.59 , $10.21 
+Seeed Studio Xiao RP2040,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html,1, N/A , $3.90 , $3.68 , $7.58 
+EC11 Rotary Encoder ( 5 pack ),https://www.amazon.co.uk/Jadeshay-Potentiometer-Electronics-Components-Projects/dp/B0DYDTWJ2G,1, £5.69 , $7.57 , Prime , $7.57 
+Key Switches (10 pack),https://www.amazon.co.uk/gp/product/B0CNSZJJJS?smid=A1CJU33C7Q3NZU&psc=1,2, £3.49 , $4.64 , Prime , $4.64 
+PCB,https://jlcpcb.com/user-center/orderDetails/?batchNum=W2025102306391217,5, N/A , $2.00 , $2.20 , $4.20 
+Diodes ( Multiples of 50 ),https://www.lcsc.com/product-detail/C42379410.html,3, N/A , $1.62 , $8.59 , $10.21 
 3D printer Filament (1kg),https://www.amazon.co.uk/PLA-Filament-Dimensional-Accuracy-Printers/dp/B0DKFJ1K6R,1, £9.34 , $12.42 , Prime , $12.42 
 ,,,,,, $46.62 
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+
+
