@@ -1,7 +1,7 @@
-Item,Link,Quantity,Price(£),Price ($),Shipping,Total
- Seeed Studio Xiao RP2040 ,,1,  N/A  ,  $3.90  ,  $3.68  , $7.58 
- EC11 Rotary Encoder ( 5 pack ) ,,1, £5.69 ,  $7.57  ,  Prime  , $7.57 
- Key Switches (10 pack) ,,2, £3.49 , $9.28 ,  Prime  , $9.28 
- PCB ,,5,  N/A  ,  $2.00  ,  $2.20  , $4.20 
- Diodes ( Multiples of 50 ) ,,1,  N/A  , $0.54 , $8.59 , $9.13 
-,,,,,, $37.76 
+Item,Store,Quantity,Price(£),Price ($),Shipping,Total
+ Seeed Studio Xiao RP2040 , Seeed Studio ,1,  N/A  ,  $3.90  ,  $3.68  , $7.58 
+ Key Switches (10 pack) , Amazon ,2, £3.49 , $9.28 ,  Prime  , $9.28 
+ PCB , JLCPCB ,5,  N/A  ,  $2.00  ,  $2.20  , $4.20 
+ Diodes ( Multiples of 50 ) , LCSC ,1,  N/A  , $0.54 , $4.35 , $4.89 
+ EC11 Rotary Encoder , LCSC ,1, N/A , $1.81 , $4.35 , $7.57 
+,,,,,, $33.52 
