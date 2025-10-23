@@ -58,7 +58,7 @@ PCb and diodes have been found but currently looking for keyswitches and keys to
 ![keypad_diode_cart.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--c806f93c4a0e785a24e2fecf93ceffc7265b1a92/keypad_diode_cart.png)
   
 
-## 10/23/2025 - Found Keys and MCU  
+## 10/23/2025 5:03 PM - Found Keys and MCU  
 
 I found the remaining components I need to buy: which are the seeed studio xiao rp2040, rotary encoder and key switches. The Case and keycaps will be 3D printed.
 
@@ -69,5 +69,12 @@ I found the remaining components I need to buy: which are the seeed studio xiao 
 x2 of these
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgwNywicHVyIjoiYmxvYl9pZCJ9fQ==--6bba8ae628064c4392064e745e8ebb99b3baf309/image.png)
 
+  
+
+## 10/23/2025 5:33 PM - Organised a BOM for total price for all items  
+
+I organised the items to show the usd prices for anything is gbp instead and organise the raw item prices vs shipping costs. This helps understand the costs for reviewers
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--95fa9acd18bc9294a5428dfd97610fa0e5b55bad/image.png)
   
 
