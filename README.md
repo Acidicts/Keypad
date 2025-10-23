@@ -15,6 +15,7 @@ The order of assembly/soldering is:
 - Keycaps Encoder Knob
 
 This is yet to have firmware made for it as it is easier to debug with the actual hardware on hand.
+Will be using either **KMK** or **QMK** most likely (kmk due to being easier to learn) and will be referencing ![here](https://github.com/Acidicts/Macrowack)
 
 Here is a render of the finished product:
 <img width="3300" height="2550" alt="keypad_render" src="https://github.com/user-attachments/assets/a573d20f-7a2c-49de-92d5-adedc084e4c7" />
