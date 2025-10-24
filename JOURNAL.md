@@ -93,3 +93,17 @@ Using 4 retailers based on price, seeed studio for the rp2040 board, jlcpcb for 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3NywicHVyIjoiYmxvYl9pZCJ9fQ==--122b65893230804c3ec7f718b80a6290786ad191/image.png)
   
 
+## 10/24/2025 - Ordered Seeed Studio Xiao RP2040  
+
+Put in my order for:
+- seeed studio xiao rp2040 - Bit pricey but used discount code so now only paying shipping
+- pcb - The pcb the fun part
+- lcsc parts - x50 BAV16W diodes and a rotary encoder
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--191478c7bdcdde3a540a5ce0ac7c4b46110f04e4/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--e7d63f41597ec536ca746ef4b75a02312b180093/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--918ebe6feb499cf97862b8edcc7dff37f41f390d/image.png)
+  
+
