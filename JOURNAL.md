@@ -100,6 +100,8 @@ Put in my order for:
 - pcb - The pcb the fun part
 - lcsc parts - x50 BAV16W diodes and a rotary encoder
 
+Addresses and order codes censored
+
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--191478c7bdcdde3a540a5ce0ac7c4b46110f04e4/image.png)
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--e7d63f41597ec536ca746ef4b75a02312b180093/image.png)
