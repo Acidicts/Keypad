@@ -50,7 +50,7 @@ Made Case for the keypad and tried getting the pcb into jlcpcb but failed, due t
 ![keypad_render.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--796f47a034207fa8d8725a98c5f8fb3c63625839/keypad_render.PNG)
   
 
-## 10/22/2025 11:47 PM - Looking for parts  
+## 10/22/2025 11:47 PM - Looking for parts - 1hrs  
 
 PCb and diodes have been found but currently looking for keyswitches and keys to put on the board and yet to look for the seeed studio xiao rp2040 microcontroller
 
