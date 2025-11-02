@@ -71,7 +71,7 @@ x2 of these
 
   
 
-## 10/23/2025 5:33 PM - Organised a BOM for total price for all items  
+## 10/23/2025 5:33 PM - Organised a BOM for total price for all items - 0.4hrs  
 
 I organised the items to show the usd prices for anything is gbp instead and organise the raw item prices vs shipping costs. This helps understand the costs for reviewers
 
