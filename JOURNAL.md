@@ -58,7 +58,7 @@ PCb and diodes have been found but currently looking for keyswitches and keys to
 ![keypad_diode_cart.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--c806f93c4a0e785a24e2fecf93ceffc7265b1a92/keypad_diode_cart.png)
   
 
-## 10/23/2025 5:03 PM - Found Keys and MCU  
+## 10/23/2025 5:03 PM - Found Keys and MCU - 1 hrs  
 
 I found the remaining components I need to buy: which are the seeed studio xiao rp2040, rotary encoder and key switches. The Case and keycaps will be 3D printed.
 
