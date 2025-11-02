@@ -93,7 +93,7 @@ Using 4 retailers based on price, seeed studio for the rp2040 board, jlcpcb for 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3NywicHVyIjoiYmxvYl9pZCJ9fQ==--122b65893230804c3ec7f718b80a6290786ad191/image.png)
   
 
-## 10/24/2025 - Ordered Seeed Studio Xiao RP2040  
+## 10/24/2025 - Ordered Seeed Studio Xiao RP2040 - 0.5hrs  
 
 Put in my order for:
 - seeed studio xiao rp2040 - Bit pricey but used discount code so now only paying shipping
