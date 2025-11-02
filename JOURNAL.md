@@ -78,9 +78,11 @@ I organised the items to show the usd prices for anything is gbp instead and org
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--95fa9acd18bc9294a5428dfd97610fa0e5b55bad/image.png)
   
 
-## 10/23/2025 5:44 PM - Forgot to add this  
+## 10/23/2025 5:44 PM - Forgot to add this - 0.1hrs  
 
 Filament spool in black to give the Case and Keycaps a matte black colour as I don't have a matte filament that could be substituted in. Found on amazon for lower than my normal filament price.
+
+~ Note Filament was removed from BOM
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--954c286d6dbf714512811814aa411085a5e7a2e9/image.png)
    
