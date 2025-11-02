@@ -36,7 +36,7 @@ I added a margin and made a render of the pcb to get an idea of what the shape o
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--9bd3bd934de4f6e44229f92ebe4e8b6d0dc4f0ed/image.png)
   
 
-## 10/21/2025 11 PM - Complied with DRC rules  
+## 10/21/2025 11 PM - Complied with DRC rules - 1hrs  
 
 I selected ignore all for the clearance drc rules as it was due to using a smaller diode size which brought two wires / tracks too close to each other causing the errors.
 
