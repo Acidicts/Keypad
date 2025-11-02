@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/20/2025 - Created the Schematic for the Keypad  
+## 10/20/2025 - Created the Schematic for the Keypad - 0.7hrs  
 
 Made the schematic key arrangement is 4 columns by 5 rows:
 - K = Key 
