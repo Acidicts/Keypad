@@ -30,7 +30,7 @@ I routed the pcb and removed a key to make space for the Xiao Seed Studio on the
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d9f18383b22380799a0eb291931b6e3d59c409e/image.png)
   
 
-## 10/21/2025 10:49 PM - Made a Board Render  
+## 10/21/2025 10:49 PM - Made a Board Render - 0.1hrs  
 
 I added a margin and made a render of the pcb to get an idea of what the shape of it will be and to start thinking if I want a case or enjoy the pcb in all its glory. 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--9bd3bd934de4f6e44229f92ebe4e8b6d0dc4f0ed/image.png)
