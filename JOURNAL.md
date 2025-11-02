@@ -23,7 +23,7 @@ K K K 2K
 
   
 
-## 10/21/2025 10:46 PM - Routed PCB  
+## 10/21/2025 10:46 PM - Routed PCB - 1.4hrs  
 
 I routed the pcb and removed a key to make space for the Xiao Seed Studio on the board. So the board has 4 columns with 5 rows with a total of 17 Keys and an rotary encoder
 
