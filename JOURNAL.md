@@ -85,7 +85,7 @@ Filament spool in black to give the Case and Keycaps a matte black colour as I d
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--954c286d6dbf714512811814aa411085a5e7a2e9/image.png)
    
 
-## 10/23/2025 8 PM - Found cheaper products  
+## 10/23/2025 8 PM - Found cheaper products - 0.7hrs  
 
 I found cheaper products from different retailers, to lower the price. Removed filament from BOM.
 Using 4 retailers based on price, seeed studio for the rp2040 board, jlcpcb for the pcb, lcsc for the diodes and rotary encoder, Amazon for the mx switches.
