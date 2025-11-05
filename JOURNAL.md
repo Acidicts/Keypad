@@ -111,3 +111,10 @@ Addresses and order codes censored
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--918ebe6feb499cf97862b8edcc7dff37f41f390d/image.png)
   
 
+## 11/5/2025 - Soldered PCB and added keycaps  
+
+All deliveries arrived and I soldered the diodes first then the microcontroller then the rotary encoder and finally the switches before adding keycaps etc.
+
+![WhatsApp Image 2025-11-05 at 18.08.31_fab62910](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--883639448c3d58ed1d4bb3d0267f3a81476ed3ff/WhatsApp%20Image%202025-11-05%20at%2018.08.31_fab62910.jpg)
+  
+
