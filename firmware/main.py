@@ -240,7 +240,7 @@ def custom_before_matrix_scan():
                 keyboard.remove_key(mode_manager.pending_key_release)
             
             # Add the new key
-            if direction > 0:
+            if direction < 0:
                 keyboard.add_key(KC.VOLU)
                 mode_manager.pending_key_release = KC.VOLU
             else:
@@ -254,4 +254,5 @@ keyboard.before_matrix_scan = custom_before_matrix_scan
 print("Manual encoder ready!")
 
 if __name__ == '__main__':
+
     keyboard.go()
