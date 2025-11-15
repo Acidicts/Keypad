@@ -1,3 +1,14 @@
+import supervisor
+
+# Check if SW1 was pressed at boot - if so, don't run keyboard code
+try:
+    if supervisor.runtime.serial_bytes_available:
+        print("SW1 was pressed at boot - keyboard disabled for file editing")
+        while True:
+            pass  # Infinite loop, do nothing
+except:
+    pass
+
 import board
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC, Key
@@ -13,20 +24,6 @@ keyboard = KMKKeyboard()
 keyboard.col_pins = (board.D0, board.D1, board.D2, board.D3)
 keyboard.row_pins = (board.D4, board.D5, board.D6, board.D10, board.D9)
 
-# External LEDs (example pins: 11, 12, 13; adjust for your board)
-led_red = digitalio.DigitalInOut(board.LED_RED)   # Red LED
-led_green = digitalio.DigitalInOut(board.LED_GREEN) # Green LED
-led_blue = digitalio.DigitalInOut(board.LED_BLUE)  # Blue LED (or another pin if D13 is used internally)
-
-# Set all LEDs to output mode
-led_red.direction = digitalio.Direction.OUTPUT
-led_green.direction = digitalio.Direction.OUTPUT
-led_blue.direction = digitalio.Direction.OUTPUT
-
-led_red.value = False
-led_green.value = False
-led_blue.value = False
-
 # Diode orientation: COL2ROW means diodes point from columns to rows
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
@@ -39,7 +36,11 @@ pixels = None
 try:
     import neopixel
     # NeoPixel is on pin 14 (not board.NEOPIXEL)
-    led_pin = board.NEOPIXEL
+    try:
+        led_pin = board.D14
+    except:
+        # Fallback to NEOPIXEL if D14 doesn't exist
+        led_pin = board.NEOPIXEL
     
     pixels = neopixel.NeoPixel(led_pin, 1, brightness=0.3, auto_write=True)
     pixels.fill((0, 0, 0))  # Start with LED off
@@ -122,7 +123,7 @@ class ModeManager:
         """Handle LED blinking in mode select"""
         if self.mode_select_active and pixels:
             self.blink_counter += 1
-            if self.blink_counter >= 200:  # Blink every ~30 scans (about 0.3s)
+            if self.blink_counter >= 30:  # Blink every ~30 scans (about 0.3s)
                 self.blink_counter = 0
                 self.blink_state = not self.blink_state
                 try:
