@@ -32,7 +32,9 @@ Case:
 </div>
 
 
-[![Watch the video](Watch Here)](https://github.com/user-attachments/assets/fbb962be-98ec-4371-88ae-068e24d50dac)
+
+https://github.com/user-attachments/assets/b589e256-21bc-4e0a-8186-24f3bf2696fe
+
 <img width=80% src="https://github.com/user-attachments/assets/c3b56e33-d53c-47fa-937c-59b1d27f5c99">
 
 
